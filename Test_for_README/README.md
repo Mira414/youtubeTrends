@@ -36,11 +36,11 @@ The following functions are related to the performance of our products.
 
 - Analyze the likes or dislikes of specific videos
 
-Pay Attention: This function is used to prump the video Likes information.
-Since the data of 'Likes' table in our demo project are limited, therefore, only the videos which
-have been record in Likes table can view their 'Video Likes' information. 
-So, if you randomlly click the 'Likes' button of one video, the come out page may be empty.
-This is normal, because the one you click is not record in the 'Likes' table.
+  Pay Attention: This function is used to prump the video Likes information.
+  Since the data of 'Likes' table in our demo project are limited, therefore, only the videos which
+  have been record in Likes table can view their 'Video Likes' information. 
+  So, if you randomlly click the 'Likes' button of one video, the come out page may be empty.
+  This is normal, because the one you click is not record in the 'Likes' table.
 
   (1) Firstly, you can create a temp .sql file in order to execute the following query.
     ```
@@ -61,7 +61,7 @@ This is normal, because the one you click is not record in the 'Likes' table.
 
 - Find the top N Optimal Ads time based on the Views of Videos data. 
 
-In our project, we assume that the optimal ad time is the publish time corresponding to the video with more views.
+  In our project, we assume that the optimal ad time is the publish time corresponding to the video with more views.
 
   (1) Firslty, click 'Optimal Ads Time' button to enter the corresponding search page.
 
